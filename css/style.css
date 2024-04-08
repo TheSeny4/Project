@@ -846,7 +846,7 @@ label {
     display: none;
   }
   .hero {
-    background-image: url(/public/img/bg.svg);
+    background-image: url(./public/img/bg.svg);
     height: auto;
     position: relative;
     width: 100%;
