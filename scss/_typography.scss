@@ -1,0 +1,196 @@
+.heading{
+    font-family: "Galien";
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 116%;
+    letter-spacing: 0.04em;
+    color: #1f3f68;
+}
+.subtitle{
+	font-family: 'Gilroy-Regular';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.05em;
+    color: #1f3f68;
+    opacity: 0.7;
+}
+.button{
+	font-family: 'Gilroy-Regular';
+    border-radius: 10px;
+    width: 220px;
+    height: 56px;
+    box-shadow: 5px 10px 20px 0 rgba(53, 110, 173, 0.2);
+    background: #5a98d0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.button:hover{
+    opacity: 0.7;
+}
+.title {
+    font-family: 'Gilroy-SemiBold';
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 128%;
+    letter-spacing: 0.05em;
+    color: #316099;
+}
+.card{
+    border-radius: 10px;
+    width: 380px;
+    height: 525px;
+    box-shadow: 5px 20px 50px 0 rgba(16, 112, 177, 0.2);
+}
+.caption{
+    font-family: 'Gilroy-SemiBold';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    color: #1f3f68;
+}
+.subcaption{
+    font-family: 'Gilroy-Regular';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.05em;
+    color: #1f3f68;
+    opacity: 0.6;
+}
+.key{
+    font-family: 'Gilroy-SemiBold';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 214%;
+    letter-spacing: 0.05em;
+    color: #5a98d0;
+}
+.title-hightlight{
+    color:#fff ;
+}
+.subtitle-hightlight{
+    color: #fff;
+    opacity: 0.6;
+}
+.element-top {
+    font-family: 'Gilroy-SemiBold';
+    width: 235px;
+    height: 128px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.43);
+    border-right: 1px solid rgba(255, 255, 255, 0.43);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 230%;
+    letter-spacing: 0.02em;
+    color: #f2f2f2;
+}
+.element-bottom {
+    font-family: 'Gilroy-SemiBold';
+    width: 235px;
+    height: 128px;
+    border-right: 1px solid rgba(255, 255, 255, 0.43);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 230%;
+    letter-spacing: 0.02em;
+    color: #f2f2f2;
+}
+.ourclient__body :nth-child(4){
+    border-right: none;
+}
+.ourclient__body :nth-child(8){
+    border-right: none;
+    background: #4E87BB;
+}
+.mark{
+    font-family: 'Gilroy-SemiBold';
+    background-color: transparent;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.05em;
+    color: #fff;
+}
+.info{
+    font-family: 'Gilroy-Regular';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.05em;
+    color: #fff;
+}
+.logo__text{
+    font-family: 'Gilroy-SemiBold';
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 164%;
+    letter-spacing: 0.02em;
+    color: #fff;
+}
+.right__title {
+    font-family: 'Gilroy-SemiBold';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    color: #fff;
+    padding-bottom: 32px;
+}
+.links{
+    font-family: 'Gilroy-Regular';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.05em;
+    color: #fff;
+}
+.copyright-text{
+    font-family: 'Gilroy-Regular';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.05em;
+    color: #fff;
+    opacity: 0.4;
+}
+.model__text{
+    font-family: 'Gilroy-Regular';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187%;
+    letter-spacing: 0.04em;
+    color: #1f3f68;
+}
+.submit{
+    width: 428px;
+    height: 72px;
+    box-shadow: 5px 10px 20px 0 rgba(16, 112, 177, 0.2);
+    font-family: 'Gilroy-SemiBold';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.04em;
+    text-align: center;
+    color: #fff;
+    background: #5a98d0;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.massage{
+    font-family: 'Gilroy-SemiBold';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #1f3f68;
+    margin-bottom: 48px;
+}
